@@ -24,9 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video controls width="250">
-  <source src="/assets/prework_walkthru.mp4" type="video/mp4" />
-</video>
+<video src="assets/prework_walkthru.mp4" width="320" height="240" controls></video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
