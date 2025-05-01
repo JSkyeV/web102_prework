@@ -18,7 +18,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Improved style on the filter buttons so that the cursor turns into a pointer when hovering over them. This helps the buttons appear clickable.
-* [ ] 
 
 ## Video Walkthrough
 
@@ -27,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='assets/prework_walkthru.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Adobe Express 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
