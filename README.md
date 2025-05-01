@@ -17,13 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Improved style on the filter buttons so that the cursor turns into a pointer when hovering over them. This helps the buttons appear clickable.
+* [ ] 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 57.14285714285714%; height: 0;"><iframe src="https://www.loom.com/embed/6c324e8ba2c14571a8e4c0e676c6ab0b?sid=ca865b72-269b-45f5-b260-1da95954ee5e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
